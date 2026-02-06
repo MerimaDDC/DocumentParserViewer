@@ -15,7 +15,7 @@ Possible improvements include expanding the interactive component with drag-and-
 
 ## Demo
 
-[Live Demo on Streamlit Cloud](#) _(Add your URL after deployment)_
+[Live Demo on Streamlit Cloud](https://mddc-documentparserviewer.streamlit.app/)
 
 ## Installation
 
